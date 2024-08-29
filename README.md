@@ -1,7 +1,7 @@
 # ARVORE AVL E ARVORE RUBRO-NEGRA
 Comparativo de Tempo:
-- Arvore AVL: Levou 38 milissegundos para executar
-- Arvore Rubro-negra: Levou 64 milissegundos para executar
+- Arvore AVL: Levou 38 milissegundos para executar - 00:00:00:38
+- Arvore Rubro-negra: Levou 64 milissegundos para executar - 00:00:00:64
 
 #Diferença das Duas:
 As duas arvores são uma estrutura de arvores binárias que necessitam de serem balanceadas.
